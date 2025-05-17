@@ -52,7 +52,7 @@ To down the network:-
 
     ./network.sh down
 
-![image alt]()
+![image alt](https://github.com/RiyaRiya184/BLOCKCHAIN-STUFF/blob/67c2b850a0cf4ac62700ff7f5e7fbc1039624eb0/madhu's%20terminal%20thing.png)
 
 To install IPFS:-
 
