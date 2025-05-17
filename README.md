@@ -51,7 +51,32 @@ To create channel:-
 To down the network:-
 
     ./network.sh down
+
+![image alt]()
+
+To install IPFS:-
+
+    wget https://dist.ipfs.tech/kubo/v0.32.1/kubo_v0.32.1_linux-amd64.tar.gz
+
+To use kubo:-
+
+    tar -xvzf kubo_v0.32.1_linux-amd64.tar.gz
+
+To get into kubo directory:-
+
+    cd kubo
+
+To move to local bin:-
+
+    sudo bash install.sh
+
+To initialise IPFS:-
+
+    ipfs init
     
+To use daemon:-
+
+    ipfs daemon
     
     
     
