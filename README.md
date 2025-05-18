@@ -155,4 +155,11 @@ We write our smart contract in the solidity language .
 To use this Language I have used the Remix ide website where I can deploy my contract for free also we can use our metamask account to know how to make transcation through that.
 
 ![image alt](https://github.com/RiyaRiya184/BLOCKCHAIN-STUFF/blob/0413bf98b0cdea8d20b279bbce6b0a15e647eacd/remix%20ide%20front.png)
-![image alt]()
+![image alt](https://github.com/RiyaRiya184/BLOCKCHAIN-STUFF/blob/73b46da0966bfb02b24fc19232d3e93a58f6ec2c/solidity1.png)
+
+In above Image , the file explore saves our contracts.
+
+Now we write a basic solidity code and try to compile run and deploy it
+
+
+
