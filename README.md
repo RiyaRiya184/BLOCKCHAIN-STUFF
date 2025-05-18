@@ -172,8 +172,9 @@ Compiling the code:-
 
 Deploying on blockchain:-
 
+![image alt](https://github.com/RiyaRiya184/BLOCKCHAIN-STUFF/blob/059067152642de55af3e52e3bb69e3125b8f3b46/deploy.png)
+
+After Deploying we can see the green tick which show our contract is deployed on the blockchain
+
 ![image alt]()
-
-
-
 
