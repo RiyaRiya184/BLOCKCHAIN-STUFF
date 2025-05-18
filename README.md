@@ -180,5 +180,5 @@ After Deploying we can see the green tick which show our contract is deployed on
 
 Running the code:-
 
-![image alt]()
+![image alt](https://github.com/RiyaRiya184/BLOCKCHAIN-STUFF/blob/67ebe8f809b4bc98382aa83b45534e0682016555/running%20of%20code2.png)
 
