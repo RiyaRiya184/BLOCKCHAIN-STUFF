@@ -161,5 +161,19 @@ In above Image , the file explore saves our contracts.
 
 Now we write a basic solidity code and try to compile run and deploy it
 
+CODE:-
+
+![image alt](https://github.com/RiyaRiya184/BLOCKCHAIN-STUFF/blob/4d4cbb14f8e41d0975d714504fbda6d69f759f6e/CODE.png)
+
+Compiling the code:-
+
+![image alt]()
+![image alt]()
+
+Deploying on blockchain:-
+
+![image alt]()
+
+
 
 
