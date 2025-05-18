@@ -147,6 +147,11 @@ These are the test token because we can;t efford the etherum coin , also for the
 ![image alt](https://github.com/RiyaRiya184/BLOCKCHAIN-STUFF/blob/915cab8228696c4a928dcbb4318c239ef51fcc66/google%20cloud%20sepolia.png)
 
 Here in the above Image you can see the Wallet Address where we have to add the our metmask wallet address then click on the recive button and when you refresh your metamask account you can see the faucets.    
-    
-    
+
+# Solidity:
+
+We write our smart contract in the solidity language .
+
+To use this Language I have used the Remix ide website where I can deploy my contract for free also we can use our metamask account to know how to make transcation through that.
+
     
