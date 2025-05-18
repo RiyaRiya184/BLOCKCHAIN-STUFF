@@ -176,5 +176,9 @@ Deploying on blockchain:-
 
 After Deploying we can see the green tick which show our contract is deployed on the blockchain
 
+![image alt](https://github.com/RiyaRiya184/BLOCKCHAIN-STUFF/blob/413aa09e134a9e2ad13931cbfa343deaec84cd88/running%20the%20code.png)
+
+Running the code:-
+
 ![image alt]()
 
