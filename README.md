@@ -167,7 +167,7 @@ CODE:-
 
 Compiling the code:-
 
-![image alt]()
+![image alt](https://github.com/RiyaRiya184/BLOCKCHAIN-STUFF/blob/017cdf53118278451a00c32cc2b192a7ca698aee/solidity%20compile.png)
 ![image alt]()
 
 Deploying on blockchain:-
