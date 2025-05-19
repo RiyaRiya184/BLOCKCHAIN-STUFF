@@ -202,7 +202,7 @@ Running the code:-
 **Questin 4:Write a contract where people can donate Ether and the top 3 donors are tracked.**
 
 ![image alt](https://github.com/RiyaRiya184/BLOCKCHAIN-STUFF/blob/73d4160fa891d2ec5ad55360a75786b203c344d5/code4.2.png)
-![image alt]()
+![image alt](https://github.com/RiyaRiya184/BLOCKCHAIN-STUFF/blob/eac95e4c0a32ccdcef278ddc57e430f5efa91d28/tr4.2.png)
 
 **Question 5:Implement a simple auction system where users can place bids, and the highest bidder wins.**
 
