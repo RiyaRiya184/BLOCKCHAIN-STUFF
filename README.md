@@ -189,3 +189,29 @@ Running the code:-
 ![image alt](https://github.com/RiyaRiya184/BLOCKCHAIN-STUFF/blob/c07e89b5af7d220f5cb9e4c907a24ecf9716f8e3/code%201.png)
 ![image alt](https://github.com/RiyaRiya184/BLOCKCHAIN-STUFF/blob/4499963b59753f6ebb7da338b78fc97c55a874af/tr%201.png)
 
+**Question 2:Write a contract that manages a list of student records (name, roll number). Allow adding and retrieving student data.**
+
+![image alt]()
+![image alt]()
+
+**Question 3:Develop a contract that only allows the deployer (owner) to call a specific function (use modifiers).**
+
+![image alt]()
+![image alt]()
+
+**Questin 4:Write a contract where people can donate Ether and the top 3 donors are tracked.**
+
+![image alt]()
+![image alt]()
+
+**Question 5:Implement a simple auction system where users can place bids, and the highest bidder wins.**
+
+![image alt]()
+![image alt]()
+
+**Question 6:Create a contract that splits incoming Ether between 3 fixed addresses.**
+
+![image alt]()
+![image alt]()
+
+
