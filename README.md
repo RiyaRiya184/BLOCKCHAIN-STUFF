@@ -192,7 +192,7 @@ Running the code:-
 **Question 2:Write a contract that manages a list of student records (name, roll number). Allow adding and retrieving student data.**
 
 ![image alt](https://github.com/RiyaRiya184/BLOCKCHAIN-STUFF/blob/6b2fd45f3e6b31e96bd85ac6309990631e21a849/code2.png)
-![image alt]()
+![image alt](https://github.com/RiyaRiya184/BLOCKCHAIN-STUFF/blob/0fa9bd501906634fde0672728255b62dcee4d0a1/tr2.png)
 
 **Question 3:Develop a contract that only allows the deployer (owner) to call a specific function (use modifiers).**
 
