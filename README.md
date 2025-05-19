@@ -182,3 +182,8 @@ Running the code:-
 
 ![image alt](https://github.com/RiyaRiya184/BLOCKCHAIN-STUFF/blob/67ebe8f809b4bc98382aa83b45534e0682016555/running%20of%20code2.png)
 
+# practical questions
+
+**question 1:Create a voting system with multiple candidates. Each address can vote only once.** 
+
+![image alt]()
