@@ -197,7 +197,7 @@ Running the code:-
 **Question 3:Develop a contract that only allows the deployer (owner) to call a specific function (use modifiers).**
 
 ![image alt](https://github.com/RiyaRiya184/BLOCKCHAIN-STUFF/blob/273a05a35d3bc321bf5ab3bacd67dcd34137f2c0/code%203.png)
-![image alt]()
+![image alt](https://github.com/RiyaRiya184/BLOCKCHAIN-STUFF/blob/c6ad50acc671891a2f97ae010f8c7c4d151b589b/tr3.png)
 
 **Questin 4:Write a contract where people can donate Ether and the top 3 donors are tracked.**
 
