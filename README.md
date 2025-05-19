@@ -187,4 +187,5 @@ Running the code:-
 **question 1:Create a voting system with multiple candidates. Each address can vote only once.** 
 
 ![image alt](https://github.com/RiyaRiya184/BLOCKCHAIN-STUFF/blob/c07e89b5af7d220f5cb9e4c907a24ecf9716f8e3/code%201.png)
-![image alt]()
+![image alt](https://github.com/RiyaRiya184/BLOCKCHAIN-STUFF/blob/4499963b59753f6ebb7da338b78fc97c55a874af/tr%201.png)
+
