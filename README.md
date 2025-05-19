@@ -211,7 +211,7 @@ Running the code:-
 
 **Question 6:Create a contract that splits incoming Ether between 3 fixed addresses.**
 
-![image alt]()
+![image alt](https://github.com/RiyaRiya184/BLOCKCHAIN-STUFF/blob/d94195e6bf3722cef80e40c03977442155ba9827/code%206.png)
 ![image alt]()
 
 
