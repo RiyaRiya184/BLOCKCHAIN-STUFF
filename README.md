@@ -206,7 +206,7 @@ Running the code:-
 
 **Question 5:Implement a simple auction system where users can place bids, and the highest bidder wins.**
 
-![image alt]()
+![image alt](https://github.com/RiyaRiya184/BLOCKCHAIN-STUFF/blob/e488a09619d00eef5653d03c47d5cb80a7eddd90/code%205.png)
 ![image alt]()
 
 **Question 6:Create a contract that splits incoming Ether between 3 fixed addresses.**
